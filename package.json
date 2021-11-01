@@ -1,0 +1,21 @@
+{
+  "name": "kjkx6f--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@progress/kendo-licensing": "1.2.1",
+    "react-dom": "17.0.2",
+    "react": "17.0.2",
+    "prop-types": "15.7.2",
+    "@progress/kendo-react-buttons": "4.10.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
